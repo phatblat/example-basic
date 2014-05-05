@@ -13,3 +13,5 @@ CHANGE ON THE WEB
 * Filtering `git log` with `--author` option
 
 One more change upstream
+
+Just another change
